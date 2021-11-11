@@ -13,7 +13,7 @@ IconFont使用工具，方便进行开发
 在`Podfile`文件中加入
 
 ```ruby
-pod 'DPIconFont', '~> 1.0'
+pod 'DPIconFont', '~> 1.0.0'
 ```
 
 
